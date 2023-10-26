@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciker)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciker&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maciker&theme=vue)](https://git.io/streak-stats)
 
