@@ -5,7 +5,7 @@
 - 🌱 I'm currently making the Full Stack Open course by The University of Helsinki
 - 🔭 And I applying what I learn into a side project call: Visual Quotes.
 
-### :memo::My Stats:
+### :memo: My Stats:
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Maciker&theme=vue" />
 
 ### :hammer_and_wrench: Languages and Tools:
