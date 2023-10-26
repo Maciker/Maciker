@@ -1,11 +1,21 @@
 ## Hi there 👋
 
-#### I'm Iker Macaya and I'm software developer at Jakala Iberia
+### I'm Iker Macaya and I'm software developer at Jakala Iberia
 
 - 🌱 I'm currently making the Full Stack Open course by The University of Helsinki
 - 🔭 And I applying what I learn into a side project call: Visual Quotes.
 
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Maciker&theme=vue" />
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 
 <!--
 **Maciker/Maciker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
