@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+#### I'm Iker Macaya and I'm software developer at Jakala Iberia
+
+- 🌱 I’m currently making the Full Stack Open course by The University of Helsinki
+- 🔭 And I applying what I learning into a side project call: Visual Quotes.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Maciker&theme=vue" />
