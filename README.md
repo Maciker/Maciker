@@ -2,8 +2,9 @@
 
 ### I'm Iker Macaya and I'm software developer at Jakala Iberia
 
-- 🌱 I'm currently making the Full Stack Open course by The University of Helsinki
-- 🔭 And I applying what I learn into a side project call: Visual Quotes.
+I enjoy keeping up with new things in technology, applying them to some side projects, and writing about what I'm learning. <br>
+Right now, I'm diving into Vue.js.<br>
+You can reach me through my [website](https://macaya.dev/]): <br>
 
 ### :memo: My Stats:
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Maciker&theme=vue" />
@@ -20,6 +21,9 @@
 
  
 </div>
+<br>
+I'm also a great coffee fan, so you can buy me a coffee to help me stay awake!
+<br>
 <br>
 <a href='[https://ko-fi.com/supportkofi](https://ko-fi.com/maciker)' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
