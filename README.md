@@ -22,11 +22,6 @@ You can reach me through my [website](https://macaya.dev/]): <br>
  
 </div>
 <br>
-I'm also a great coffee fan, so you can buy me a coffee to help me stay awake!
-<br>
-<br>
-<a href='[https://ko-fi.com/supportkofi](https://ko-fi.com/maciker)' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-
 
 <!--
 **Maciker/Maciker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
