@@ -4,7 +4,7 @@
 
 I enjoy keeping up with new things in technology, applying them to some side projects, and writing about what I'm learning. <br>
 Right now, I'm diving into Vue.js.<br>
-You can reach me through my [website](https://macaya.dev/]) 
+You can reach me through my website: https://macaya.dev/
 <br>
 
 ### :memo: My Stats:
