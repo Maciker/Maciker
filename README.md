@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Iker Macaya and I'm software developer at Jakala Iberia
+### I'm Iker Macaya and I'm software developer.
 
 I enjoy keeping up with new things in technology, applying them to some side projects, and writing about what I'm learning. <br>
 Right now, I'm diving into the principles of Software Design.<br>
