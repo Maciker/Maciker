@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hey there, I’m Iker Macaya! 👋
 
-### I'm Iker Macaya and I'm software developer.
+I’m a **Product Builder** and **Software Developer** who loves exploring new technologies, building side projects in public, and sharing what I learn along the way. 
 
-I enjoy keeping up with new things in technology, applying them to some side projects, and writing about what I'm learning. <br>
-Right now, I'm diving into the principles of Software Design.<br>
-You can reach me through my website: https://macaya.dev/
+- ⚙️ **Current Focus**: Deploying my new **portfolio**   
+- 🚀 **Building in Public**: I believe in shipping fast, iterating openly, and learning from real-world feedback.  
+- ✍️ **Writing**: I regularly document my process, challenges, and discoveries to help others (and my future self!)  
+- 🌐 **Website**: [macaya.dev](https://macaya.dev/)  
+
+Let’s **ship** together, **share** our insights, and shape better products—line by line.
 <br>
 
 ### :memo: My Stats:
