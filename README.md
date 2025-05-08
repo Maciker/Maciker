@@ -2,7 +2,7 @@
 
 I’m a **Product Builder** and **Software Developer** who loves exploring new technologies, building side projects in public, and sharing what I learn along the way. 
 
-- ⚙️ **Current Focus**: Deploying my new **portfolio**   
+- ⚙️ **Current Focus**: Product building 
 - 🚀 **Building in Public**: I believe in shipping fast, iterating openly, and learning from real-world feedback.  
 - ✍️ **Writing**: I regularly document my process, challenges, and discoveries to help others (and my future self!)  
 - 🌐 **Website**: [macaya.dev](https://macaya.dev/)  
