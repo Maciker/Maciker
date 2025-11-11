@@ -7,7 +7,7 @@ I’m a **Product Builder** and **Software Developer** who loves exploring new t
 - ✍️ **Writing**: I regularly document my process, challenges, and discoveries to help others (and my future self!)  
 - 🌐 **Website**: [macaya.dev](https://macaya.dev/)  
 
-Let’s **ship** together, **share** our insights, and shape better products—line by line.
+Let’s **ship** together, **share** our insights, and shape better products, line by line.
 <br>
 
 ### :memo: My Stats:
